@@ -10,3 +10,8 @@
 <body>
 </html>
 <nav>
+<a href="#">Home</a>
+<a href="https://WWW.google.com" target="blank">google</a>
+<a href="#">About</a>
+</nav>
+
