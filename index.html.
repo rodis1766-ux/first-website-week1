@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<h1>My First Website</h1>
+My First Website</h1>
 </head>
 <body>
- </h1>Welcome To My First Website</h1>
+ <h1>Welcome To My First Website</h1>
 <p>This Is MY First Webpage.</p>
 <p>I am Looking Forward To Learn More About Web Development.</p>
-<body>
-</html>
 <nav>
 <a href="#">Home</a>
 <a href="https://WWW.google.com" target="blank">google</a>
