@@ -9,7 +9,7 @@ My First Website</h1>
 <p>I am Looking Forward To Learn More About Web Development.</p>
 <nav>
 <a href="#">Home</a>
-<a href="https://WWW.google.com" target="blank">google</a>
+<a href="https://WWW.google.com" target="_blank">Google</a>
 <a href="#">About</a>
 </nav>
 </body>
